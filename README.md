@@ -2,10 +2,10 @@
 
 Personal study notes, threat models, cryptographic analysis, and lab documentation for Harvard University's **CS50 Cybersecurity**.
 
-## 📚 Table of Contents
-* [Week 1: Securing Accounts](#-week-1-securing-accounts)
-* [Week 2: Securing Data](#-week-2-securing-data)
-* [Week 3: Securing Networks](#week-3-securing-networks)
+📚 Table of Contents
+* [Week 1: Securing Accounts](#week-1-securing-accounts)
+* [Week 2: Securing Data](#week-2-securing-data)
+* [Week 3: Securing Networks](#-week-3-securing-networks)
 ---
 
 # 🔑 Week 1: Securing Accounts
